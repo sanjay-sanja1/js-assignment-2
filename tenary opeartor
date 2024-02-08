@@ -1,0 +1,4 @@
+The ternary operator, also known as the conditional operator, is a concise way to write conditional statements in many programming languages.
+It's called "ternary" because it takes three operands: a condition followed by two expressions.
+The ternary operator is typically used in place of an if-else statement when the condition check and the resulting expressions are simple.
+It can make the code more concise and readable.
