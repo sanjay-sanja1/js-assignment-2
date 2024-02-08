@@ -1,0 +1,3 @@
+In JavaScript, the comma operator , is used to evaluate multiple expressions and return the value of the last expression. 
+It evaluates each of its operands (from left to right) and returns the value of the rightmost operand. The comma operator is most commonly used in variable declarations, 
+for loop initializations, function arguments, and in expressions where multiple values need to be combined into a single expression.
